@@ -1,17 +1,7 @@
 body {
-    font-family: Arial, sans-serif;
     text-align: center;
+    font-family: Arial;
     margin-top: 50px;
-}
-
-#verification_heading {
-    font-size: 24px;
-    margin-bottom: 10px;
-}
-
-#verification_subtext {
-    color: gray;
-    margin-bottom: 20px;
 }
 
 .code-container {
@@ -25,11 +15,4 @@ body {
     height: 50px;
     font-size: 20px;
     text-align: center;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-}
-
-.code:focus {
-    border-color: #007bff;
-    outline: none;
 }
